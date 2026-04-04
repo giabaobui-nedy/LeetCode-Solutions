@@ -1,0 +1,26 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int count = 1;
+        int current = nums[0];
+        int freq = 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] != current) {
+                current = nums[i];
+                freq = 1;
+                if (count != i) {
+                    nums[count] = nums[i];
+                }
+                count++;
+            } else {
+                if (freq < 2) {
+                    freq++;
+                    if (count != i) {
+                        nums[count] = nums[i];
+                    }
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+}
