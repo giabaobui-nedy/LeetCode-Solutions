@@ -4,7 +4,6 @@ class Solution:
         right = len(nums) - 1
         pointer = round((right - left) / 2)
         while left < pointer < right:
-            print(left, pointer, right)
             # binary search
             if nums[pointer] > target:
                 right = pointer
