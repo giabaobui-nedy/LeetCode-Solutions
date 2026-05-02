@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
