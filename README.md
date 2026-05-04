@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -80,13 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
