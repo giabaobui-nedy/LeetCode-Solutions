@@ -1,21 +1,22 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        result = [-1] * len(nums1)
-        # stack = []
-        for ind, num1 in enumerate(nums1):
-            start_search = False
-            for num2 in nums2:
-                if num2 == num1:
-                    start_search = True
-                    continue
-                
-                if not start_search:
-                    continue
-                
-                if num2 > num1:
-                    result[ind] = num2
-                    break
-        return result
+        # Maps: number -> its next greater element
+        next_greater_map = {}
+        stack = []  # Monotonic decreasing stack
+        
+        # Step 1: Process nums2 to find next greater elements
+        for num in nums2:
+            # While the current number is greater than the top of the stack,
+            # it means we found the "next greater element" for the stack's top.
+            while stack and num > stack[-1]:
+                smaller_num = stack.pop()
+                next_greater_map[smaller_num] = num
+            
+            stack.append(num)
+            
+        # Step 2: Build the result for nums1 using our precomputed map
+        # If a number isn't in the map, it defaults to -1
+        return [next_greater_map.get(num, -1) for num in nums1]
                 
                 
                 
