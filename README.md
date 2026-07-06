@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -107,4 +108,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
