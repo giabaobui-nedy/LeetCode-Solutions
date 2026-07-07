@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
