@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Stack
 |  |
@@ -170,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
