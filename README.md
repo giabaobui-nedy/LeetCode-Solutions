@@ -114,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
