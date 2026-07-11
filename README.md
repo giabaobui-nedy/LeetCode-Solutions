@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## String
 |  |
