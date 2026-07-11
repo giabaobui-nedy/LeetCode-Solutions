@@ -7,7 +7,7 @@ class Solution:
             if (num - 1) not in num_set:
                 current_num = num
                 current_streak = 1
-            
+
                 # check the increment
                 while (current_num + 1) in num_set:
                     current_num += 1
@@ -15,5 +15,5 @@ class Solution:
 
                 # 4. Keep track of the champion streak
                 longest_streak = max(longest_streak, current_streak)
+
         return longest_streak
-            
