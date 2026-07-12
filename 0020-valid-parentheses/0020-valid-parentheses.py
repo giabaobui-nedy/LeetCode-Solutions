@@ -1,17 +1,14 @@
-class Solution(object):
-    def isValid(self, s):
-        parenthesis_dict = {"(": ")", "{": "}", "[": "]"}
+class Solution:
+    def isValid(self, s: str) -> bool:
+        pairs = { '(' : ')', '{' : '}', '[': ']'}
         stack = []
         for char in s:
-            if char in parenthesis_dict:
+            if char in pairs:
                 stack.append(char)
             else:
-                if not stack or char != parenthesis_dict[stack[-1]]:
+                if len(stack) == 0 or char != pairs[stack[-1]]:
                     return False
-                stack.pop()
+                else:
+                    stack.pop()
+
         return len(stack) == 0
-
-        
-
-
-        
