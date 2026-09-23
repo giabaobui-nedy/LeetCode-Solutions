@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Stack
 |  |
