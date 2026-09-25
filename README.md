@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1534-count-good-triplets](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
