@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Stack
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
