@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
