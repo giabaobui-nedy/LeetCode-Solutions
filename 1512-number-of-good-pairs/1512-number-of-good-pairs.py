@@ -1,9 +1,8 @@
 class Solution:
     def numIdenticalPairs(self, nums: list[int]) -> int:
-        count = {}
+        seen = {}
+        pairs = 0
         for num in nums:
-            if num in count:
-                count[num] += 1
-            else:
-                count[num] = 0
-        return sum((n * (n + 1)) // 2 for n in count.values())                
+            pairs += seen.get(num, 0)          # pairs with every earlier copy
+            seen[num] = seen.get(num, 0) + 1   # now record this copy
+        return pairs         
