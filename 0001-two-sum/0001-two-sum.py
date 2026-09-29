@@ -1,13 +1,9 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash_map = {}
-        for ind, num in enumerate(nums):
-            a_number_needed = target - num
-            if a_number_needed in hash_map:
-                return [hash_map[a_number_needed], ind]
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        di = {}
+        for i, num in enumerate(nums):
+            if (target - num) in di:
+                return [di[target - num], i]
             else:
-                hash_map[num] = ind
-                
-
-
+                di[num] = i
         
