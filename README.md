@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1512-number-of-good-pairs](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
 | ------- |
