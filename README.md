@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
