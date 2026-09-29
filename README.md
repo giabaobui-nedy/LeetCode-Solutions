@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/giabaobui-nedy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
